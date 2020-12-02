@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700|Work+Sans:300,400,500,600,700,800');
+*{
+    margin: 0;
+    padding: 0;
+}
+ body {
+	font-family: 'Work Sans', sans-serif;
+	font-weight: normal;
+	font-style: normal;
+}
+.ptb{
+	padding:60px 0;
+}
+img {
+	max-width: 100%;
+}
